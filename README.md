@@ -4,6 +4,8 @@
 
 #Done#
 
+* [基于node.js的RESTful后端开发模板](https://github.com/hashmaparraylist/nodejs-restfull-seed)
+
 #Sleeping#
 
 * [码农主页模板](https://github.com/hashmaparraylist/ideas/issues/1)
